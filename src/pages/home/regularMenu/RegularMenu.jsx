@@ -3,7 +3,7 @@ import useMenu from "../../../hooks/useMenu";
 import PopularMenuItem from "./popularmenuItem/PopularMenuItem";
 
 const RegularMenu = () => {
-  const [menu] = useMenu();
+  const [menu = []] = useMenu();
   return (
     <div>
       <SectionTitle heading="regular menu" subHeading="From our menu" />
