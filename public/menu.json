@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "spice001",
+    "name": "Red Chili Powder",
+    "description": "Hot and flavorful red chili powder for curries and sauces.",
+    "image": "https://i.ibb.co.com/zH5Y9MGV/rsz-fresh-raw-garlic-ready-cook.jpg",
+    "category": "spice",
+    "price": 3.5,
+    "netWeight": "100g"
+  },
+  {
+    "_id": "spice002",
+    "name": "Turmeric Powder",
+    "description": "Bright yellow turmeric powder, perfect for curries and rice dishes.",
+    "image": "https://i.ibb.co.com/Wpj9jF1R/rsz-turmeric-powder.jpg",
+    "category": "spice",
+    "price": 2.8,
+    "netWeight": "100g"
+  },
+  {
+    "_id": "spice003",
+    "name": "Cumin Seeds",
+    "description": "Aromatic cumin seeds for seasoning and enhancing flavors.",
+    "image": "https://i.ibb.co.com/VYm869mz/rsz-indian-spice-heap-coriander-powder-dhaniya-powder-chinese-parsley-dried-seeds-selective-focus.jpg",
+    "category": "spice",
+    "price": 4.0,
+    "netWeight": "100g"
+  },
+  {
+    "_id": "spice004",
+    "name": "Coriander Powder",
+    "description": "Ground coriander powder, ideal for curries and gravies.",
+    "image": "https://i.ibb.co.com/mV96CDkx/rsz-set-indian-spices-black-background-green-cardamom-turmeric-powder-coriander-seeds-cumin-chili-to.jpg",
+    "category": "spice",
+    "price": 3.2,
+    "netWeight": "100g"
+  },
+  {
+    "_id": "spice005",
+    "name": "Black Pepper",
+    "description": "Freshly ground black pepper to add spice and aroma to any dish.",
+    "image": "https://i.ibb.co.com/VY07D1G1/rsz-1bowl-with-bay-leaves.jpg",
+    "category": "spice",
+    "price": 5.0,
+    "netWeight": "50g"
+  },
+  {
+    "_id": "spice006",
+    "name": "Cardamom",
+    "description": "Fragrant cardamom pods for desserts and biryani.",
+    "image": "https://i.ibb.co.com/zH5Y9MGV/rsz-fresh-raw-garlic-ready-cook.jpg",
+    "category": "spice",
+    "price": 6.5,
+    "netWeight": "50g"
+  },
+  {
+    "_id": "spice007",
+    "name": "Cloves",
+    "description": "Intensely aromatic cloves for spice blends and teas.",
+    "image": "https://i.ibb.co.com/zH5Y9MGV/rsz-fresh-raw-garlic-ready-cook.jpg",
+    "category": "spice",
+    "price": 4.5,
+    "netWeight": "50g"
+  },
+  {
+    "_id": "spice008",
+    "name": "Cinnamon",
+    "description": "Sweet and fragrant cinnamon sticks for cooking and baking.",
+    "image": "https://i.ibb.co.com/Wpj9jF1R/rsz-turmeric-powder.jpg",
+    "category": "spice",
+    "price": 5.5,
+    "netWeight": "50g"
+  },
+  {
+    "_id": "spice009",
+    "name": "Mustard Seeds",
+    "description": "Pungent mustard seeds for pickles, curries, and tempering.",
+    "image": "https://i.ibb.co.com/VYm869mz/rsz-indian-spice-heap-coriander-powder-dhaniya-powder-chinese-parsley-dried-seeds-selective-focus.jpg",
+    "category": "spice",
+    "price": 3.0,
+    "netWeight": "100g"
+  },
+  {
+    "_id": "spice010",
+    "name": "Fenugreek Seeds",
+    "description": "Bitter-sweet fenugreek seeds, perfect for curries and spice mixes.",
+    "image": "https://i.ibb.co.com/Wpj9jF1R/rsz-turmeric-powder.jpg",
+    "category": "spice",
+    "price": 3.8,
+    "netWeight": "100g"
+  },
+  {
+    "_id": "spice0011",
+    "name": "Garam Masala",
+    "description": "A fragrant blend of spices for Indian dishes.",
+    "image": "https://i.ibb.co.com/zH5Y9MGV/rsz-fresh-raw-garlic-ready-cook.jpg",
+    "category": "blend",
+    "price": 6.0,
+    "net_weight": "100g"
+  },
+  {
+    "_id": "offer001",
+    "name": "Special Curry Pack",
+    "description": "A combo pack of turmeric, chili, and coriander powder.",
+    "image": "https://i.ibb.co.com/Wpj9jF1R/rsz-turmeric-powder.jpg",
+    "category": "offered",
+    "price": 8.5,
+    "netWeight": "300g"
+  },
+  {
+    "_id": "offer002",
+    "name": "Premium Spice Mix",
+    "description": "A mix of cinnamon, cloves, and cardamom for desserts.",
+    "image": "https://i.ibb.co.com/VYm869mz/rsz-indian-spice-heap-coriander-powder-dhaniya-powder-chinese-parsley-dried-seeds-selective-focus.jpg",
+    "category": "offered",
+    "price": 9.0,
+    "netWeight": "150g"
+  },
+  {
+    "_id": "offer003",
+    "name": "Everyday Cooking Essentials",
+    "description": "Chili powder, cumin seeds, and mustard seeds combo pack.",
+    "image": "https://i.ibb.co.com/mV96CDkx/rsz-set-indian-spices-black-background-green-cardamom-turmeric-powder-coriander-seeds-cumin-chili-to.jpg",
+    "category": "offered",
+    "price": 7.5,
+    "netWeight": "250g"
+  },
+  {
+    "_id": "offer004",
+    "name": "Tea Time Special",
+    "description": "Cinnamon, cloves, and black pepper for perfect tea blends.",
+    "image": "https://i.ibb.co.com/VY07D1G1/rsz-1bowl-with-bay-leaves.jpg",
+    "category": "offered",
+    "price": 6.5,
+    "netWeight": "120g"
+  },
+  {
+    "_id": "spice0012",
+    "name": "Red Chili Powder",
+    "description": "Hot and flavorful red chili powder for curries and sauces.",
+    "image": "https://i.ibb.co/4RJPkg3s/rsz-redchili2.jpg",
+    "category": "spice",
+    "price": 3.5,
+    "netWeight": "100g"
+  }
+]
